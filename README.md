@@ -7,7 +7,8 @@
 
 <br>
 <details>
-  <summary>Recent GitHub Activity 🚀</summary>
+  <summary><b>Recent GitHub Activity 🚀</b></summary>
+  <br>
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#81](https://github.com/melody-bot/Melody/pull/81) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
@@ -16,12 +17,12 @@
 4. ❌ Closed PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
 5. 💪 Opened PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
 <!--END_SECTION:activity-->
-
+<br>
 </details>
 
 <details>
-  <summary>GitHub Stats ⚡</summary>
-
+  <summary><b>GitHub Stats ⚡</b></summary>
+  <br>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=git-kush&show_icons=true&hide_border=true&theme=dark" />
 
 </details>

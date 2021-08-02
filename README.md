@@ -11,11 +11,11 @@
   <br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#81](https://github.com/melody-bot/Melody/pull/81) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
-2. 🎉 Merged PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
-3. ❌ Reopened PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
-4. ❌ Closed PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
-5. 💪 Opened PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
+1. 🎉 Merged PR [#89](https://github.com/melody-bot/Melody/pull/89) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
+2. ❌ Closed PR [#81](https://github.com/melody-bot/Melody/pull/81) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
+3. 🎉 Merged PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
+4. ❌ Reopened PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
+5. ❌ Closed PR [#84](https://github.com/melody-bot/Melody/pull/84) in [melody-bot/Melody](https://github.com/melody-bot/Melody)
 <!--END_SECTION:activity-->
 <br>
 </details>

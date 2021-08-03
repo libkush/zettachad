@@ -1,4 +1,4 @@
-# Hi there, I am Kush 👋
+# Hi there, I'm Kush 👋
 
 ### I like to
 - make stuff ⚡

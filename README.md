@@ -11,6 +11,7 @@
   <summary><b>GitHub Stats 🚀</b></summary>
   <br>
   <img align="left" alt="git-kush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=git-kush&count_private=true&bg_color=111827&show_icons=true&border_color=ff5c00&theme=dark" />
+  <img align="left" alt="git-kush's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-kush&count_private=true&bg_color=111827&show_icons=true&border_color=ff5c00&theme=dark" />
 
 </details>
 <br>

@@ -1,9 +1,5 @@
-#### stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Quat3rnion&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&hide=issues,contribs&hide_title=true&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" />
+My software knows where it is at all times. It knows this because it knows where it isn't. By subtracting where it is from where it isn't, or where it isn't from where it is (whichever is greater), it obtains a difference, or deviation. The guidance subsystem uses deviations to generate corrective commands to drive the program from a position where it is to a position where it isn't, and arriving at a position where it wasn't, it now is. Consequently, the position where it is, is now the position that it wasn't, and it follows that the position that it was, is now the position that it isn't.
 
-#### languages & technologies</h4>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Quat3rnion&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&hide_title=true&text_color=c9d1d9" />
+In the event that the position that it is in is not the position that it wasn't, the system has acquired a variation, the variation being the difference between where the program is, and where it wasn't. If variation is considered to be a significant factor, it too may be corrected by the GEA. However, the program must also know where it was.
 
-#### brag
-<img width="450" src="https://streak-stats.demolab.com?user=Quat3rnion&theme=transparent&hide_border=true&ring=58a6ff&fire=eb5409&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=3F84E4" />
-<br>
+The software guidance computer scenario works as follows. Because a variation has modified some of the information the program has obtained, it is not sure just where it is. However, it is sure where it isn't, within reason, and it knows where it was. It now subtracts where it should be from where it wasn't, or vice-versa, and by differentiating this from the algebraic sum of where it shouldn't be, and where it was, it is able to obtain the deviation and its variation, which is called error.
